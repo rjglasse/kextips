@@ -20,15 +20,16 @@ The aim of this collection is to help both student and supervisor. Students can 
 
 ## Editing
 
+- [Reading Backwards](editing/reading-backwards.md)
 - [Exploding Paragraphs](editing/exploding-paragraphs.md)
 - [Listen Closely](editing/listen-closely.md)
 - [Employing AI as a Editor](editing/employing-ai-as-a-editor.md)
 
 ## Finessing
 
-- [Artefacts Matter](editing/artefacts-matter.md)
-- [Minutiae Matter](editing/minutiae-matter.md)
-- [Style Matters](editing/style-matters.md)
+- [Artefacts Matter](finessing/artefacts-matter.md)
+- [Minutiae Matter](finessing/minutiae-matter.md)
+- [Style Matters](finessing/style-matters.md)
 
 ## Contributions
 
